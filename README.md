@@ -2,7 +2,7 @@
 <h1 align="center">Aqua packages for DC/OS</h1>
 <div align="center">
     <img src="https://media.licdn.com/dms/image/C4E0BAQE3VDX3-CraIw/company-logo_200_200/0?e=2159024400&v=beta&t=JlFS2weo0ZUVfyL9YFFUWEhEutltl6W9DG3Ef6UAeEg" />
-    <img height="185px" width="250px" src="https://mesosphere.com/wp-content/uploads/2016/04/logo-horizontal-styled.png" />
+
 </div>
 
 This is an example configuration of an Aqua package repo for DC/OS, but this should not be used directly. Instead, clone this and customize it for your environment. Test thoroughly in non-production environment for your own use.
